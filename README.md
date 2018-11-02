@@ -8,6 +8,9 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 # Papers and Code
 
+- [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067). Drew A. Hudson, Christopher D. Manning. ICLR 2018. 
+[![code](github.jpg)](https://github.com/stanfordnlp/mac-network)
+
 - [Dilated DenseNets for Relational Reasoning](https://arxiv.org/abs/1811.00410). Antreas Antoniou, Agnieszka Słowik, Elliot J. Crowley, Amos Storkey.
 
 - [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427). Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap. 
