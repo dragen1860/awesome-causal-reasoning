@@ -8,7 +8,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 # Papers and Code
 
--[Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations](https://arxiv.org/abs/1811.04784). Xander Steenbrugge, Sam Leroux, Tim Verbelen, Bart Dhoedt.
+- [Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations](https://arxiv.org/abs/1811.04784). Xander Steenbrugge, Sam Leroux, Tim Verbelen, Bart Dhoedt.
 
 - [SARN: Relational Reasoning through Sequential Attention](https://arxiv.org/abs/1811.00246). Jinwon An, Sungwon Lyu, Sungzoon Cho.
 
@@ -34,6 +34,6 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 # Researchers and Labs
 
-
+- [Adam Santoro](https://scholar.google.com/citations?user=evIkDWoAAAAJ&hl=en). DeepMind.
 
  
