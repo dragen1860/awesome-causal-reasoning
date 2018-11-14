@@ -14,8 +14,6 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 - [Multi-layer Relation Networks](https://arxiv.org/abs/1811.01838). Marius Jahrens, Thomas Martinetz.
 
-- [Dilated DenseNets for Relational Reasoning](https://arxiv.org/abs/1811.00410). Antreas Antoniou, Agnieszka Słowik, Elliot J. Crowley, Amos Storkey.
-
 
 
 - [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067). Drew A. Hudson, Christopher D. Manning. ICLR 2018. 
