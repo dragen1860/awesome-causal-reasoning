@@ -8,6 +8,16 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 # Papers and Code
 
+-[Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations](https://arxiv.org/abs/1811.04784). Xander Steenbrugge, Sam Leroux, Tim Verbelen, Bart Dhoedt.
+
+- [SARN: Relational Reasoning through Sequential Attention](https://arxiv.org/abs/1811.00246). Jinwon An, Sungwon Lyu, Sungzoon Cho.
+
+- [Multi-layer Relation Networks](https://arxiv.org/abs/1811.01838). Marius Jahrens, Thomas Martinetz.
+
+- [Dilated DenseNets for Relational Reasoning](https://arxiv.org/abs/1811.00410). Antreas Antoniou, Agnieszka Słowik, Elliot J. Crowley, Amos Storkey.
+
+
+
 - [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067). Drew A. Hudson, Christopher D. Manning. ICLR 2018. 
 [![code](github.jpg)](https://github.com/stanfordnlp/mac-network)
 
@@ -20,6 +30,7 @@ Please feel free to [pull requests](https://github.com/dragen1860/awesome-causal
 
 
 # Datasets
+
 
 # Researchers and Labs
 
